@@ -1,0 +1,6 @@
+#gitignore files
+
+#eclipse IDE realted files
+.cproject
+.project
+.settings
