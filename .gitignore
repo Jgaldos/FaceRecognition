@@ -4,3 +4,10 @@
 .cproject
 .project
 .settings
+
+#qt creator
+.pro
+
+#complied
+.o
+FaceRecognition/Debug/
